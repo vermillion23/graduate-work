@@ -1,0 +1,3 @@
+D:\dev\graduate-work\obj\Debug\graduate-work.njsprojAssemblyReference.cache
+D:\dev\graduate-work\obj\Debug\graduate-work.njsproj.CoreCompileInputs.cache
+D:\dev\graduate-work\bin\Microsoft.NodejsTools.WebRole.dll

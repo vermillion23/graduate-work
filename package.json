@@ -1,0 +1,33 @@
+{
+  "name": "graduate-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "detect-file": "^1.0.0",
+    "domain-browser": "^1.2.0",
+    "emoji-regex": "^7.0.3",
+    "emojis-list": "^2.1.0",
+    "escape-string-regexp": "^1.0.5",
+    "estraverse": "^4.3.0",
+    "global": "^4.4.0",
+    "supervisor": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vermillion23/graduate-work.git"
+  },
+  "author": "vermillion23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vermillion23/graduate-work/issues"
+  },
+  "homepage": "https://github.com/vermillion23/graduate-work#readme"
+}
